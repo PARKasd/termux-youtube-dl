@@ -1,4 +1,4 @@
-# termux-youtube-dl
+# termux-youtube-dl-modifyed by 0won for Korean Friends
 
 Bash script to setup yt-dlp in termux
 
