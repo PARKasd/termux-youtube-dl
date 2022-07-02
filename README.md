@@ -9,7 +9,8 @@ termux 에서 yt-dlp 구동을 위한 명령어
 3. termux 설치후 실행하여 밑에 명령줄을 복붙:
 
    `curl -L https://raw.githubusercontent.com/PARKasd/termux-youtube-dl/master/install.sh | bash`
-## How to use
+## 사용법
 
-1. Now go into youtube (or twitter, or reddit, [full list](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) / [raw txt](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/supportedsites.md)), watch a video, tap the share button, then tap termux and wait for the download
-2. Go into `/storage/emulated/0/Youtube-DL` with your file explorer and watch your downloaded video
+1. 유튜브 (또는 twitter, 또는 reddit, [지원 사이트](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) / [raw txt](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/supportedsites.md)) 에서 영상 링크를 공유하기를 통해 termux를 실행
+2. `/storage/emulated/0/Youtube-DL`에 영상이 저장됩니다.
+3. 현재 일부 영상의 22번 format 이 에러납니다. 에러가 뜨는 영상들은 다른방법으로 받아주세요
