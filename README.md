@@ -1,12 +1,12 @@
-# termux-youtube-dl-modifyed by 0won for Korean Friends
+# termux-youtube-dl 한국 유튜브 사정에 맞게 수정된 코드
 
-Bash script to setup yt-dlp in termux
+termux 에서 yt-dlp 구동을 위한 명령어
 
-## How to install
+## 설치법
 
-1. Download [termux](https://play.google.com/store/apps/details?id=com.termux)
-   > It seems that the playstore version is not up to date and can cause some bugs like packages not updating, you may try the [last fdroid version](https://f-droid.org/en/packages/com.termux/) (0.118.118 as the time i'm writing this)
-2. Open termux & copy paste this :
+1. [last fdroid version](https://f-droid.org/en/packages/com.termux/) 에서 최신버전을 받아주세요.
+2. apt get upgrade 입력, y 입력후 이후 입력들은 모두 엔터로 넘어가시길 바랍니다.
+3. termux 설치후 실행하여 밑에 명령줄을 복붙:
 
    `curl -L https://raw.githubusercontent.com/PARKasd/termux-youtube-dl/master/install.sh | bash`
 ## How to use
